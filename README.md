@@ -38,8 +38,14 @@
 <center>
     <table>
         <tr>
-            <td><video autoplay><source src="readme_files/v1.mp4" type="video/mp4"></video>
-            </td>      
+                <a><img src="readme_files/V1.GIF"  width= 33.3% /></a>  
+                <a><img src="readme_files/V2.GIF"  width= 33.3% /></a> 
+                <a><img src="readme_files/V3.GIF"  width= 33.3% /></a>       
+        </tr>
+         <tr>
+                <a><img src="readme_files/V4.GIF"  width= 33.3% /></a>  
+                <a><img src="readme_files/V5.GIF"  width= 33.3% /></a> 
+                <a><img src="readme_files/V6.GIF"  width= 33.3% /></a>       
         </tr>
     </table>
 </center>
