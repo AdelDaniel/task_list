@@ -38,14 +38,14 @@
 <center>
     <table>
         <tr>
-        <td><a><img src="readme_files/V1.GIF" /></a></td>
-        <td><a><img src="readme_files/V2.GIF" /></a></td>
-        <td><a><img src="readme_files/V3.GIF" /></a></td>
+        <td><a><img src="readme_files/v1.gif" /></a></td>
+        <td><a><img src="readme_files/v2.gif" /></a></td>
+        <td><a><img src="readme_files/v3.gif" /></a></td>
         </tr>
          <tr>
-        <td><a><img src="readme_files/V4.GIF" /></a></td>  
-        <td><a><img src="readme_files/V5.GIF" /></a></td>
-        <td><a><img src="readme_files/V6.GIF" /></a></td>
+        <td><a><img src="readme_files/v4.gif" /></a></td>  
+        <td><a><img src="readme_files/v5.gif" /></a></td>
+        <td><a><img src="readme_files/v6.gif" /></a></td>
         </tr>
     </table>
 </center>
