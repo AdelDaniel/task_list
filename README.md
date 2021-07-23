@@ -38,14 +38,14 @@
 <center>
     <table>
         <tr>
-                <a><img src="readme_files/V1.GIF"  width= 33.3% /></a>  
-                <a><img src="readme_files/V2.GIF"  width= 33.3% /></a> 
-                <a><img src="readme_files/V3.GIF"  width= 33.3% /></a>       
+        <td><a><img src="readme_files/V1.GIF" /></a></td>
+        <td><a><img src="readme_files/V2.GIF" /></a></td>
+        <td><a><img src="readme_files/V3.GIF" /></a></td>
         </tr>
          <tr>
-                <a><img src="readme_files/V4.GIF"  width= 33.3% /></a>  
-                <a><img src="readme_files/V5.GIF"  width= 33.3% /></a> 
-                <a><img src="readme_files/V6.GIF"  width= 33.3% /></a>       
+        <td><a><img src="readme_files/V4.GIF" /></a></td>  
+        <td><a><img src="readme_files/V5.GIF" /></a></td>
+        <td><a><img src="readme_files/V6.GIF" /></a></td>
         </tr>
     </table>
 </center>
