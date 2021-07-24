@@ -61,7 +61,6 @@
 - fluttertoast:
 - flutter_staggered_animations:
 - equatable:
-- flutter_slidable:
 - animate_icons:
 - lint:
 

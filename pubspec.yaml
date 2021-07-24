@@ -31,7 +31,6 @@ dependencies:
   flutter_staggered_animations:
   flutter_bloc:
   equatable:
-  flutter_slidable:
   animate_icons:
   lint:
 
