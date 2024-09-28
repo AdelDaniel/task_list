@@ -15,7 +15,7 @@
 </br>
 
 <center>
- A task management app using Flutter and Dart, allowing users to create, edit, and organize tasks efficiently.
+ A task management app developed using Flutter and Dart, allowing users to create, edit, and organize tasks efficiently.
 </center>
 
 - Integrated SQLite for local storage, enabling users to save tasks, archive completed ones, and delete or edit existing tasks.
