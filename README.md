@@ -15,8 +15,12 @@
 </br>
 
 <center>
- A Flutter Project to create tasks and and save it in the app using sqlite and you can delete tha task or archive it  
+ A task management app using Flutter and Dart, allowing users to create, edit, and organize tasks efficiently.
 </center>
+
+- Integrated SQLite for local storage, enabling users to save tasks, archive completed ones, and delete or edit existing tasks.
+- Implemented task archiving functionality to preserve completed tasks for future reference.
+- Designed an intuitive user interface, enhancing productivity and user experience through simple task management tools.
 
 ---
 
